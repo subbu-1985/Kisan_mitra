@@ -1,4 +1,4 @@
-# Kisan Mitra ??
+# Kisan Mitra 
 
 A comprehensive Flutter mobile application designed to empower Indian farmers with real-time agricultural information, market intelligence, and government schemes data.
 
